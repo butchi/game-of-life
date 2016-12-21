@@ -1,7 +1,7 @@
 {
-  "name": "butchi-web-starter-kit",
+  "name": "game-of-life",
   "version": "0.0.0",
-  "description": "description",
+  "description": "Conway's Game of Life.",
   "main": "gulpfile.babel.js",
   "engines": {
     "node": ">=6.9.1"
@@ -16,7 +16,8 @@
     "build-html": "gulp html"
   },
   "keywords": [
-    "starterkit"
+    "lifegame",
+    "automata"
   ],
   "author": "IWABUCHI Yuuki",
   "license": "MIT",

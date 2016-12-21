@@ -1,14 +1,15 @@
 {
-  "name": "butchi-web-starter-kit",
+  "name": "game-of-life",
   "version": "0.0.0",
-  "description": "description",
-  "main": "js/main.min.js",
+  "description": "Conway's Game of Life",
+  "main": "js/script.min.js",
   "authors": [
     "IWABUCHI Yuuki"
   ],
   "license": "MIT",
   "keywords": [
-    "starterkit"
+    "lifegame",
+    "automata"
   ],
   "moduleType": [],
   "homepage": "http://butchi.jp/",
