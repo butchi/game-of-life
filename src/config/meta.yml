@@ -1,6 +1,9 @@
-site_name: web starter
-description: web-starter web page.
-keywords: []
-# url: http://example.com/
+site_name: Conway's Game of Life
+description: Conway's Game of Life.
+keywords:
+  - lifegame
+  - automata
+
+url: http://butchi.github.io/game-of-life
 # facebook_app_id": 
 # ogp_image_url: http://example.com/ogp.png
